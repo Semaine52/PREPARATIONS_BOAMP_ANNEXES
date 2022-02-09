@@ -1,6 +1,6 @@
 # gitignore cahiers-d-essais-annexes
 
-.ipynb_checkpoints
+*.ipynb_checkpoints
 
 CREA_LIENS_GITHUB_ET_DOCS.ipynb
 
